@@ -7,11 +7,11 @@ Développée avec **Python** et **Streamlit**, elle s'appuie sur l'API [open.er-
 
 ## ✨ Fonctionnalités
 
-- ✅ Conversion en temps réel entre les principales devises (EUR, USD, XOF, etc.)
-- 🔁 Affichage **automatique du taux inverse**
-- 🕓 Historique des conversions enregistré dans un fichier CSV
-- 📊 Interface web propre et responsive (Streamlit)
-- 👤 Logo et signature personnalisés
-- ☁️ Déploiement possible en ligne sur Streamlit Cloud
+- Conversion en temps réel entre les principales devises (EUR, USD, XOF, etc.)
+-  Affichage **automatique du taux inverse**
+- Historique des conversions enregistré dans un fichier CSV
+- Interface web propre et responsive (Streamlit)
+- Logo et signature personnalisés
+- Déploiement possible en ligne sur Streamlit Cloud
 
 
